@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+cs003row1-7.cs.bgu.ac.il/home/users/bsc/itaivar/task1/Skeleton"
+		}
+	],
+	"remoteAuthority": "ssh-remote+cs003row1-7.cs.bgu.ac.il",
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"typeinfo": "cpp",
+			"deque": "cpp",
+			"string": "cpp"
+		}
+	}
+}
